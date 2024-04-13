@@ -1,0 +1,7 @@
+number,name,category,location,rating
+1,ShopA,Electronics,East,4
+2,ShopB,Clothing,West,3
+3,ShopC,Books,North,5
+4,ShopD,Food,South,2
+5,ShopE,HomeGoods,Center,5
+
